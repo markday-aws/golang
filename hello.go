@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	var h := "World"
+	h := "World"
 	fmt.Printf("Hello %v, h)
 }
